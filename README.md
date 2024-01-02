@@ -7,4 +7,6 @@ I sent it to manufacture using JLCPCB, I'm using this configuration:
 ![image](https://github.com/ShoDavid/STM32-V1/assets/18238334/a822f093-094f-4ad7-8a3f-05381fbdb6b6)
 # BOM Using InteractiveHtmlBom 
 ![image](https://github.com/ShoDavid/STM32-V1/assets/18238334/2af021cd-1e04-4f45-9809-dc1e016a0d3f)
+# After manufacture
+![1704232069261](https://github.com/ShoDavid/STM32-V1/assets/18238334/30f52402-f91b-4843-8036-7b637f3cdd5c)
 
